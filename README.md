@@ -6,9 +6,7 @@ Our dataset is a subset of COCO-Stuff
 
 
 ## Main Scripts
-*  Combining instance aware model with a Unet.ipynb 
-For training and tesing the instance-aware+U-Net model
+*  *Combining instance aware model with a Unet.ipynb* - training and tesing the instance-aware+U-Net model
 
 ## Other Scripts
-* Instance-aware Image Colorization.ipynb 
-For playing with the original instance-aware model
+* *Instance-aware Image Colorization.ipynb* - playing with the original instance-aware model
